@@ -20,3 +20,5 @@ Linux Device Drivers
 
 CS106L
 CS143
+CS186 Database Systeam
+CS144 Computer NetWork
