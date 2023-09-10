@@ -27,5 +27,3 @@ Linux Device Drivers
 - CS144 Computer NetWork
 
 
-
-- CS 111A: Synchronization Problem 
